@@ -15,7 +15,7 @@ quick learning, effective teamwork, and possessing robust analytical and problem
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/arbazalam00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arbazalam00" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/arbazalam00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arbazalam00" height="40" width="50" /></a>
 <a href="https://stackoverflow.com/users/22939269" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22939269" height="30" width="40" /></a>
 <a href="https://instagram.com/arbazalam.in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arbazalam.in" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/arbaz_alam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arbaz_alam" height="30" width="40" /></a>
