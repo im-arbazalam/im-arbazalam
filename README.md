@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arbaz Alam, a senior Engineering Undergraduate.</h1>
-<h3 align="center">A passionate Java Backend developer from India</h3>
+<h3 align="center">Motivated B.Tech. graduate from ZHCET. Proficient in developing Java applications, implementing Data
+Structure and Algorithms, utilizing MySQL, and adhering to clean code practices. Demonstrated aptitude for
+quick learning, effective teamwork, and possessing robust analytical and problem-solving skills.</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
