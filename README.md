@@ -7,7 +7,8 @@ quick learning, effective teamwork, and possessing robust analytical and problem
 
 
 <img align="right" alt="Coding" width="500" src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg">
-- 🌱 I’m currently learning **Spring Boot**
+
+- 💻 I’m currently learning **Spring Boot**
 
 - 💬 Ask me about **Web Development**
 
