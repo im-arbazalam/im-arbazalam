@@ -29,4 +29,4 @@ quick learning, effective teamwork, and possessing robust analytical and problem
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=im-arbazalam&show_icons=true&locale=en" alt="im-arbazalam" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=im-arbazalam&background=24292e" alt="im-arbazalam" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=im-arbazalam&" alt="im-arbazalam" /></p>
