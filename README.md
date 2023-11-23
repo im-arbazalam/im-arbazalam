@@ -12,7 +12,9 @@ quick learning, effective teamwork, and possessing robust analytical and problem
 
 - 💬 Ask me about **Web Development**
 
-- 📫 How to reach me <a href="mailto:arbazbinirfan@gmail.com" style="text-decoration:none;">arbazbinirfan@gmail.com</a>
+- - 📫 How to reach me: arbazbinirfan@gmail.com
+
+
 
 
 <h3 align="left">Connect with me:</h3>
