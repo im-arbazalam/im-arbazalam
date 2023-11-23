@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arbaz Alam, a senior Engineering Undergraduate.</h1>
+<h1 align="center">Hi 👋, I'm Arbaz Alam, a Engineering Undergraduate.</h1>
 <h3 align="center">Motivated B.Tech. graduate from ZHCET. Proficient in developing Java applications, implementing Data
 Structure and Algorithms, utilizing MySQL, and adhering to clean code practices. Demonstrated aptitude for
 quick learning, effective teamwork, and possessing robust analytical and problem-solving skills.</h3>
@@ -13,7 +13,7 @@ quick learning, effective teamwork, and possessing robust analytical and problem
 - 💬 Ask me about **Web Development**
 
 - 📫 How to reach me: **`arbazbinirfan@gmail.com`**
-_ 📫 How to reach me: <span style="color:#ff5733;">arbazbinirfan@gmail.com</span>
+
 
 
 
