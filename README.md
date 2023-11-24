@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arbaz Alam, a Engineering Undergraduate.</h1>
-<h3 align="center">Motivated B.Tech. graduate from ZHCET. Proficient in developing Java applications, implementing Data
+<h3 align="center">Motivated B.Tech. graduate from ZHCET (AMU). Proficient in developing Java applications, implementing Data
 Structure and Algorithms, utilizing MySQL, and adhering to clean code practices. Demonstrated aptitude for
 quick learning, effective teamwork, and possessing robust analytical and problem-solving skills.</h3>
 
