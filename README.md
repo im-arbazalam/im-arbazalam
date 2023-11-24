@@ -21,7 +21,7 @@ quick learning, effective teamwork, and possessing robust analytical and problem
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="mailto:arbazbinirfan@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="arbazbinirfan@gmail.com" height="30" width="40" /></a>
+[![Gmail](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg)](mailto:arbazbinirfan@gmail.com)
 <a href="https://linkedin.com/in/arbazalam00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arbazalam00" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22939269" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22939269" height="30" width="40" /></a>
 <a href="https://instagram.com/arbazalam.in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arbazalam.in" height="30" width="40" /></a>
